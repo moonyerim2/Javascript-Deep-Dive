@@ -34,3 +34,6 @@
   - 논리 연산자(||, &&)를 사용한 단축평가
   - 옵셔널 체이닝 연산자, null 병합 연산자
   - 증감연산자 위치에 따라 다른 효과
+- [Day3](https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/Day3.md)
+  - 동기 처리와 비동기 처리
+  - Event loop & Task queue
