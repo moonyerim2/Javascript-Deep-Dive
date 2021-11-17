@@ -17,7 +17,8 @@ _정리 : 도토리_
 
 ## 얕은 복사와 깊은 복사
 
-![image](https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC.PNG?raw=true" width="450px" height="150px"/></p>
 
 - 얕은 복사(shallow copy)란?
 
@@ -34,7 +35,8 @@ _정리 : 도토리_
 
 ## 원시값과 객체의 Copy
 
-![image](https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B0%9D%EC%B2%B4copy.PNG?raw=true)
+<p align="center">
+  <img src="https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B0%9D%EC%B2%B4copy.PNG?raw=true" width="750px" height="300px"/></p>
 
 원시값은 깊은 복사를 하지만 객체는 얕은 복사을 기반으로 한다.
 그리하여 객체는 한 데이터의 공유가 아니라 똑같은 구조의 객체를 하나 더 생성하여 따로 사용하고자 할 때 깊은 복사가 필요하다.
