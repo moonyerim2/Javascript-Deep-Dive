@@ -35,3 +35,7 @@
 - [Day3](https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/Day3.md)
   - 동기 처리와 비동기 처리
   - Event loop & Task queue
+- [Day4](https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/Day4.md)
+  - 제너레이터 함수 정의
+  - 제너레이터 객체
+  - yield 키워드와 next 메서드
