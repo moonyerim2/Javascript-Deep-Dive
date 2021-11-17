@@ -14,9 +14,7 @@
 
 - Millie
 
-- jinnie
-
-- poky
+- Poky
 
 - Dotori
 
