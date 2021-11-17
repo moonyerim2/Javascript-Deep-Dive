@@ -39,3 +39,7 @@
   - 제너레이터 함수 정의
   - 제너레이터 객체
   - yield 키워드와 next 메서드
+- [Day5](https://github.com/moonyerim2/Javascript-Deep-Dive/blob/main/Day5.md)
+  - 객체
+  - 얕은 복사와 깊은 복사
+  - 원시값과 객체의 copy
