@@ -63,7 +63,7 @@ depth 1까지는 깊은 복사가 가능하지만 depth 2부터는 얕은 복사
 
      - 그냥 할당(const arrB = arrA)
      - spread(...) (depth 2부터)
-     - slice()
+     - slice()  (depth 2부터)
 
   2. 깊은복사
      - 스프레드를 재귀적/여러번 사용
